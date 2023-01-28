@@ -1,4 +1,4 @@
-# Github and Git Conflict
+# Github and Git
 # CSC4110-assignment001
 ## Name
 Jaberul Haque
